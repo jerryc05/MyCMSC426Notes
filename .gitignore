@@ -130,3 +130,9 @@ dmypy.json
 
 # Ignore vscode settings
 .vscode
+
+# Ignore jetbrains settings
+.idea
+
+# Ignore zip submission file
+*.zip
