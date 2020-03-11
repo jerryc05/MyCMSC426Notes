@@ -136,3 +136,4 @@ dmypy.json
 
 # Ignore zip submission file
 *.zip
+/hw3/*.dat
